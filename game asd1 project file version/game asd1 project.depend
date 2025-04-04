@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701702786 source:c:\users\bass\desktop\fac w majebt ness\game asd1 project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
